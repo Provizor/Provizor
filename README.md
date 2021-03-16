@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 
 <!--
 **Provizor/Provizor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
